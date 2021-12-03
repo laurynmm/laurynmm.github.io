@@ -1,1 +1,5 @@
-Hello World!
+Zulip Internship
+
+{% for post in site.posts %}
+    * [{{ post.title }}]({{ post.url }})
+{% endfor %}
