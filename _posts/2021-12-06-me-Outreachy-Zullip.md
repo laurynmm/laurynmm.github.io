@@ -16,7 +16,7 @@ One area that I always enjoyed in my work as an administrator and teacher was da
 ## Who I am
 ### Some of my core values are community, learning and authenticity.
 
-I have always been drawn to spaces (virtual or in-person) with a strong sense of community. In my work and my life, I want to feel connected to people who share similar interests and purpose. I don't want to be the soloist; I want to be part of the orchestra. I'm not interested in dancing alone; I'm lifting up my dance partners and being lifted up in turn.
+I have always been drawn to spaces (virtual or in-person) with a strong sense of community. In my work and in my life, I want to feel connected to people who share similar interests and purpose. I don't want to be the soloist; I want to be part of the orchestra. I'm not interested in dancing alone; I'm lifting up my dance partners and being lifted up in turn.
 
 Also, it's critical for me to be in environments that prioritize learning. For me, learning in community requires:
 * asking questions / being curious
