@@ -7,7 +7,7 @@ I'm very excited to be officially starting my time as an [Outreachy participant]
 
 ## Where I started
 ### I'm relatively new to programming and open source.
-I started my career as an arts-education adminstrator and worked for many great organizations like [Moving in the Spirit](https://www.movinginthespirit.org/) in Alanta and [ODC Dance](https://odc.dance/) in San Francisco. 
+I started my career as an arts-education administrator and worked for many great organizations like [Moving in the Spirit](https://www.movinginthespirit.org/) in Alanta and [ODC Dance](https://odc.dance/) in San Francisco. 
 
 After about 9 years in the industry, I needed a break and moved to Spain with my partner. My first few years here were spent learning the languages (Spanish, Galician, Valencian and Catalan) and exploring the possibility of teaching English. While I love language learning and how it connects people to new ways of thinking and being, I didn't love being in front of the classroom.
 
@@ -31,6 +31,6 @@ And in my opinion, for a community and learning to be successful, a base of auth
 ### This summer, I reached a point where I needed to start getting some real world coding experience.
 Early in 2021, I heard about Outreachy through some friends who work in the open source community. I thought applying might be a long shot, but worth trying. I submitted my application to the program in mid-August and then waited to hear back.
 
-About 45 days ago, after I had found out that I had made it to the 2nd round of the application process, I started [my first contribution to Zulip's web application](https://github.com/zulip/zulip/pull/19975). After spending just a few hours in the Zulip community chat, I could tell that my values alligned with the project.
+About 45 days ago, after I had found out that I had made it to the 2nd round of the application process, I started [my first contribution to Zulip's web application](https://github.com/zulip/zulip/pull/19975). After spending just a few hours in the Zulip community chat, I could tell that my values aligned with the project.
 
 During the contribution period, I made [5 contributions to Zulip](https://github.com/zulip/zulip/pull/20123), [received clear / quick feedback from Zulip folks](https://github.com/zulip/zulip/pull/20056) and [was encouraged to take on more challenging tasks](https://github.com/zulip/zulip/pull/20070). I've already learned a lot from what I've done so far and I'm so looking forward to being able to continue contributing to the project for the next 13 weeks through the Outreachy program.
