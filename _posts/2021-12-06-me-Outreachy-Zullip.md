@@ -14,7 +14,7 @@ After about 9 years in the industry, I needed a break and moved to Spain with my
 One area that I always enjoyed in my work as an administrator and teacher was data and tracking. So, I thought I'd look into data analysis and see if that might be for me. My self-study soon had me learning programming languages like R and Python, which I found both challenging and very rewarding. Following my interest, I started to focus more on programming and here I am.
 
 ## Who I am
-Some of my core values are community, learning and authenticity.
+### Some of my core values are community, learning and authenticity.
 
 I have always been drawn to spaces (virtual or in-person) with a strong sense of community. In my work and my life, I want to feel connected to people who share similar interests and purpose. I don't want to be the soloist; I want to be part of the orchestra. I'm not interested in dancing alone; I'm lifting up my dance partners and being lifted up in turn.
 
@@ -28,6 +28,7 @@ Also, it's critical for me to be in environments that prioritize learning. For m
 And in my opinion, for a community and learning to be successful, a base of authenticity is essential. I want to show up as myself, with all my human imperfections. And I want others to be able to do the same with me.
 
 ## What I am doing
+### This summer, I reached a point where I needed to start getting some real world coding experience.
 Early in 2021, I heard about Outreachy through some friends who work in the open source community. I thought applying might be a long shot, but worth trying. I submitted my application to the program in mid-August and then waited to hear back.
 
 About 45 days ago, after I had found out that I had made it to the 2nd round of the application process, I started [my first contribution to Zulip's web application](https://github.com/zulip/zulip/pull/19975). After spending just a few hours in the Zulip community chat, I could tell that my values alligned with the project.
