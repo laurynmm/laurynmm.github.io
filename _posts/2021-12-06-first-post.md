@@ -1,5 +1,5 @@
 ---
-title: Beginnings: me, Outreachy and Zulip
+title: me, Outreachy and Zulip
 date: 2021-12-06
 ---
 
