@@ -1,0 +1,48 @@
+---
+title: Halfway there
+date: 2021-1-23
+---
+
+I'm halfway through my Outreachy internship with Zulip. My general task for the 12 weeks was
+to  help improve the Zulip server and web application. Our plan for doing so was to continue
+the same workflow that had developed during the application process with my mentor where we
+identified current and relevant issues that built on my previous contributions.
+
+Here are some of the things I've done so far ...
+
+- API updates
+  - Here's a fun example of my workflow with Zulip ...
+    - There's a chat in the api_design stream where a question or idea arises.
+    - My mentor asks if I can look into implementing that and I do.
+    - Which then leads me to a follow-up task.
+    - And another and so on.
+  - I find this really rewarding because I get to help with current issues and
+    gain some knowledge 
+
+- Documentation updates
+  - User documentation, such as the help center or REST API docs, is part of every Zulip server
+  - I've helped update the API documentation so that endpoint parameters have more detailed descriptions
+    of object parameters.
+
+- Prototyped front end implementation of recent draft synchronization API
+  - This was a task that my mentor suggested before I even started the internship. I knew
+    would be a big learning curve for me.
+  - Currently, Zulip supports drafts for messages in the local environment. But a draft that I start
+    writing in Chrome, won't be synced to another browser (e.g. Firefox or Safari) on the same device
+    or Chrome on another computer or device. The draft exists only in that local client instance. 
+  - This past summer, Zulip added a back end implementation for syncing drafts via the server,
+    but the front end hadn't yet been started.
+  - I worked bit by bit, reading through the API and learning how the current local draft implementation
+    works in the front end of the web application. It was quite rewarding when a draft I wrote in
+    Firefox was then live updated on Chrome.
+
+Here's some prompts that could get you started writing this blog post:
+
+ - What was your original internship project timeline?
+ - What goals have you met?
+ - What have you accomplished in the first half of your internship?
+ - What project goals took longer than expected?
+ - Why did those project goals take longer than expected?
+ - What would you do differently if you were starting the project over?
+ - Which original goals needed to be modified?
+ - What is your new plan for the second half of the internship?
